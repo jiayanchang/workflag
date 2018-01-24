@@ -1,5 +1,7 @@
 # workflag
 
+[toc]
+
 请求统一前缀：yanchang.info/workflag
 
 ## 列表接口
@@ -14,7 +16,7 @@ request perematers
 
 {
 	status:'processing',  //value is all or processing
-	sorts :['level', 'status']
+	sorts :[{'level': 'desc'}, {'status': 'asc'}]
 }
 
 ```
