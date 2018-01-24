@@ -1,6 +1,6 @@
 # workflag
 
-请求统一前缀：yanchang.info/strawberry
+请求统一前缀：yanchang.info/workflag
 
 ## 列表接口
 
